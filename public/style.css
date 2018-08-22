@@ -1,0 +1,27 @@
+body {
+  background-color: #bbd0ed;
+  font-family: 'Architects Daughter', cursive;
+}
+
+.container{
+  margin: auto;
+  width: 700px;
+  text-align: center;
+}
+
+.games{
+  margin: auto;
+  width: 200px;
+  border: 2px solid red;
+  text-align: center;
+}
+
+.rules{
+  margin: auto;
+  padding: 15px;
+  width: 800px;
+  color: blue;
+  border: dotted blue 1px;
+  display: flex;
+  align-items: center;
+}
